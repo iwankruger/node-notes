@@ -1,0 +1,8 @@
+{
+  "name": "basic_real_time_chat",
+  "version": "0.0.1",
+  "dependencies": {
+    "ecstatic": "^3.2.0",
+    "ws": "^5.1.0"
+  }
+}
